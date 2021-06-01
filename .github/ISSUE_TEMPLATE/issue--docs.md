@@ -1,7 +1,7 @@
 ---
 name: 'Issue: docs'
-about: Describe this issue template's purpose here.
-title: "[DOCS]"
+about: Template for adding documentation related stuff
+title: "[DOCS]: "
 labels: documentation
 assignees: 4erkashin
 
