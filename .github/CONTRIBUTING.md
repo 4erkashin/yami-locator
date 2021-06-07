@@ -3,6 +3,7 @@
 Hi, I'm really glad you wanted to get involved in developing the project! Before submitting your contribution, please make sure to take a moment and read through the following guidelines:
 
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
+- [Commit Convention](./COMMIT_CONVENTION.md)
 - [Issue Reporting Guidelines](#issue-reporting-guidelines)
 - [Pull Request Guidelines](#pull-request-guidelines)
 - [Development Setup](#development-setup)
