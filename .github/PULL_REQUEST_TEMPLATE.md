@@ -25,7 +25,7 @@ If yes, please describe the impact and migration path for existing applications:
 
 - [ ] When resolving a specific issue, it's referenced in the PR's title (e.g. `fix #xxx[,#xxx]`, where "xxx" is the issue number)
 <!--
-- [ ] All tests are passing: https://github.com/vuejs/vue/blob/dev/.github/CONTRIBUTING.md#development-setup
+- [ ] All tests passed without warnings and errors
 - [ ] New/updated tests are included
 -->
 
