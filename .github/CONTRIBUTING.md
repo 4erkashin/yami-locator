@@ -2,19 +2,20 @@
 
 Hi, I'm really glad you wanted to get involved in developing the project! Before submitting your contribution, please make sure to take a moment and read through the following guidelines:
 
-- [Code of Conduct](./CODE_OF_CONDUCT.md)
-- [Commit Convention](./COMMIT_CONVENTION.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Commit Convention](COMMIT_CONVENTION.md)
+- [Branch Naming Convention](BRANCH_CONVENTION.md)
 - [Issue Reporting Guidelines](#issue-reporting-guidelines)
 - [Pull Request Guidelines](#pull-request-guidelines)
 - [Development Setup](#development-setup)
-- [Project Structure](#project-structure)
 
 ## Issue Reporting Guidelines
 
 - Please select one of the templates in the issue creation page.
 
 ## Pull Request Guidelines
-**WIP**
+
+Please follow the [Pull Request Guide](PULL_REQUEST_TEMPLATE.md) content
 
 - It's OK to have multiple small commits as you work on the PR - GitHub will automatically squash it before merging.
 
@@ -39,7 +40,7 @@ $ yarn # install the dependencies of the project
 
 ### Committing Changes
 
-Commit messages should follow the [commit message convention](./COMMIT_CONVENTION.md) so that changelogs can be automatically generated. Commit messages will be automatically validated upon commit.
+Commit messages should follow the [commit message convention](COMMIT_CONVENTION.md) so that changelogs can be automatically generated. Commit messages will be automatically validated upon commit.
 
 ### Commonly used NPM scripts
 **WIP**

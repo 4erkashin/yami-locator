@@ -2,4 +2,6 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 # Project description
+Please follow the [contributing guide](.github/CONTRIBUTING.md) if you want to participate
+
 **WIP**
