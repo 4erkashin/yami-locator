@@ -1,0 +1,17 @@
+{
+  "name": "yami-locator",
+  "version": "0.0.1",
+  "description": "WIP",
+  "main": "false",
+  "repository": "git@github.com:4erkashin/yami-locator.git",
+  "author": "Yuriy Cherkashin <cherkashin.ju@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "3.3.0"
+  },
+  "scripts": {
+    "git-commit": "cz"
+  }
+}
