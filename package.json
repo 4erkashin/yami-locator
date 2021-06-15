@@ -9,9 +9,11 @@
   "private": true,
   "devDependencies": {
     "commitizen": "^4.2.4",
-    "cz-conventional-changelog": "3.3.0"
+    "cz-conventional-changelog": "3.3.0",
+    "husky": "^6.0.0"
   },
   "scripts": {
-    "git-commit": "cz"
+    "git-commit": "cz",
+    "postinstall": "husky install"
   }
 }

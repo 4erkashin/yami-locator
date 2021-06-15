@@ -38,7 +38,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["commitizen", "npm:4.2.4"],
-            ["cz-conventional-changelog", "npm:3.3.0"]
+            ["cz-conventional-changelog", "npm:3.3.0"],
+            ["husky", "npm:6.0.0"]
           ],
           "linkType": "SOFT",
         }]
@@ -614,6 +615,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["homedir-polyfill", "npm:1.0.3"],
             ["parse-passwd", "npm:1.0.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["husky", [
+        ["npm:6.0.0", {
+          "packageLocation": "./.yarn/cache/husky-npm-6.0.0-384872ea98-61e1f7f53f.zip/node_modules/husky/",
+          "packageDependencies": [
+            ["husky", "npm:6.0.0"]
           ],
           "linkType": "HARD",
         }]
@@ -1203,7 +1213,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["yami-locator", "workspace:."],
             ["commitizen", "npm:4.2.4"],
-            ["cz-conventional-changelog", "npm:3.3.0"]
+            ["cz-conventional-changelog", "npm:3.3.0"],
+            ["husky", "npm:6.0.0"]
           ],
           "linkType": "SOFT",
         }]
