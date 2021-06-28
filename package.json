@@ -10,9 +10,11 @@
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
+    "@commitlint/cz-commitlint": "^12.1.4",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "3.3.0",
-    "husky": "^6.0.0"
+    "husky": "^6.0.0",
+    "inquirer": "^8.1.1"
   },
   "scripts": {
     "git-commit": "cz",
